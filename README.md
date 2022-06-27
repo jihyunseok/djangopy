@@ -1,1 +1,1 @@
-#djangopy commit test
+#django python study
